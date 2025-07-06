@@ -1,5 +1,5 @@
 <template>
-  <div class="app">
+  <div class="container">
     <h2>app</h2>
     <Home />
   </div>
@@ -9,8 +9,4 @@
 import Home from "@/views/home";
 </script>
 
-<style scoped>
-.app {
-  background-color: skyblue;
-}
-</style>
+<style scoped></style>
