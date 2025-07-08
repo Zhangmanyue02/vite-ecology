@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-import Home from "@/views/home"
+import Home from '@/views/home'
 </script>
 
 <style scoped></style>
